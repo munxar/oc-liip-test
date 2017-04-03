@@ -1,5 +1,5 @@
 plugin:
-    name: 'liip.test::lang.plugin.name'
+    name: 'Movies'
     description: 'liip.test::lang.plugin.description'
     author: Liip
     icon: oc-icon-diamond

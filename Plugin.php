@@ -1,4 +1,4 @@
-<?php namespace Liip\Test;
+<?php namespace Liip\Movies;
 
 use System\Classes\PluginBase;
 

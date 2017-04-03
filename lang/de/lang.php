@@ -1,6 +1,6 @@
 <?php return [
     'plugin' => [
-        'name' => 'Test',
+        'name' => 'Movies',
         'description' => ''
     ]
 ];

@@ -1,0 +1,11 @@
+plugin:
+    name: 'liip.test::lang.plugin.name'
+    description: 'liip.test::lang.plugin.description'
+    author: Liip
+    icon: oc-icon-diamond
+    homepage: ''
+navigation:
+    main-menu-test:
+        label: 'liip.test::lang.plugin.name'
+        url: /
+        icon: icon-diamond
